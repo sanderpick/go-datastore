@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	ds "github.com/ipfs/go-datastore"
-	fuzzer "github.com/ipfs/go-datastore/fuzz"
-	dsq "github.com/ipfs/go-datastore/query"
+	ds "github.com/textileio/go-datastore"
+	fuzzer "github.com/textileio/go-datastore/fuzz"
+	dsq "github.com/textileio/go-datastore/query"
 
 	"github.com/spf13/pflag"
 )

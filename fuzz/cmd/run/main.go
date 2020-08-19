@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	fuzzer "github.com/ipfs/go-datastore/fuzz"
+	fuzzer "github.com/textileio/go-datastore/fuzz"
 
 	"github.com/spf13/pflag"
 )

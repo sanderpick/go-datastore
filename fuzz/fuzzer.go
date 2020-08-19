@@ -9,8 +9,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	ds "github.com/ipfs/go-datastore"
-	dsq "github.com/ipfs/go-datastore/query"
+	ds "github.com/textileio/go-datastore"
+	dsq "github.com/textileio/go-datastore/query"
 )
 
 //go:generate go run ./cmd/generate

@@ -7,10 +7,10 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	ds "github.com/ipfs/go-datastore"
-	kt "github.com/ipfs/go-datastore/keytransform"
-	dsq "github.com/ipfs/go-datastore/query"
-	dstest "github.com/ipfs/go-datastore/test"
+	ds "github.com/textileio/go-datastore"
+	kt "github.com/textileio/go-datastore/keytransform"
+	dsq "github.com/textileio/go-datastore/query"
+	dstest "github.com/textileio/go-datastore/test"
 )
 
 // Hook up gocheck into the "go test" runner.

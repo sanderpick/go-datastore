@@ -3,7 +3,7 @@ package datastore
 import (
 	"log"
 
-	dsq "github.com/ipfs/go-datastore/query"
+	dsq "github.com/textileio/go-datastore/query"
 )
 
 // Here are some basic datastore implementations.

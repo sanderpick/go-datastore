@@ -5,7 +5,7 @@ import (
 	"path"
 	"strings"
 
-	dsq "github.com/ipfs/go-datastore/query"
+	dsq "github.com/textileio/go-datastore/query"
 
 	"github.com/google/uuid"
 )

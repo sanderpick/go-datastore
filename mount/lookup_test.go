@@ -3,7 +3,7 @@ package mount
 import (
 	"testing"
 
-	datastore "github.com/ipfs/go-datastore"
+	datastore "github.com/textileio/go-datastore"
 )
 
 func TestLookup(t *testing.T) {

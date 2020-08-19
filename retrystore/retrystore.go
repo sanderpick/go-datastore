@@ -5,7 +5,7 @@ package retrystore
 import (
 	"time"
 
-	ds "github.com/ipfs/go-datastore"
+	ds "github.com/textileio/go-datastore"
 	xerrors "golang.org/x/xerrors"
 )
 

@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	query "github.com/ipfs/go-datastore/query"
+	query "github.com/textileio/go-datastore/query"
 )
 
 /*

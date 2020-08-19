@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	ds "github.com/ipfs/go-datastore"
-	"github.com/ipfs/go-datastore/query"
+	ds "github.com/textileio/go-datastore"
+	"github.com/textileio/go-datastore/query"
 
 	"go.uber.org/multierr"
 )

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/ipfs/go-datastore"
+	. "github.com/textileio/go-datastore"
 	. "gopkg.in/check.v1"
 )
 

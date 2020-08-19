@@ -1,4 +1,4 @@
-module github.com/ipfs/go-datastore
+module github.com/textileio/go-datastore
 
 require (
 	github.com/google/uuid v1.1.1

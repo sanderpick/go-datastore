@@ -6,8 +6,8 @@
 //  import (
 //    "fmt"
 //
-//    ds "github.com/ipfs/go-datastore"
-//    nsds "github.com/ipfs/go-datastore/namespace"
+//    ds "github.com/textileio/go-datastore"
+//    nsds "github.com/textileio/go-datastore/namespace"
 //  )
 //
 //  func main() {

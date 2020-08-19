@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	ds "github.com/ipfs/go-datastore"
-	failstore "github.com/ipfs/go-datastore/failstore"
+	ds "github.com/textileio/go-datastore"
+	failstore "github.com/textileio/go-datastore/failstore"
 )
 
 func TestRetryFailure(t *testing.T) {

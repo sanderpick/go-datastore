@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"testing"
 
-	dstore "github.com/ipfs/go-datastore"
-	query "github.com/ipfs/go-datastore/query"
+	dstore "github.com/textileio/go-datastore"
+	query "github.com/textileio/go-datastore/query"
 )
 
 // BasicSubtests is a list of all basic tests.

@@ -4,12 +4,12 @@ import (
 	"errors"
 	"testing"
 
-	datastore "github.com/ipfs/go-datastore"
-	autobatch "github.com/ipfs/go-datastore/autobatch"
-	mount "github.com/ipfs/go-datastore/mount"
-	query "github.com/ipfs/go-datastore/query"
-	sync "github.com/ipfs/go-datastore/sync"
-	dstest "github.com/ipfs/go-datastore/test"
+	datastore "github.com/textileio/go-datastore"
+	autobatch "github.com/textileio/go-datastore/autobatch"
+	mount "github.com/textileio/go-datastore/mount"
+	query "github.com/textileio/go-datastore/query"
+	sync "github.com/textileio/go-datastore/sync"
+	dstest "github.com/textileio/go-datastore/test"
 )
 
 func TestPutBadNothing(t *testing.T) {

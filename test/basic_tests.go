@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	dstore "github.com/ipfs/go-datastore"
-	dsq "github.com/ipfs/go-datastore/query"
+	dstore "github.com/textileio/go-datastore"
+	dsq "github.com/textileio/go-datastore/query"
 )
 
 // ElemCount sets with how many elements the datastore suit

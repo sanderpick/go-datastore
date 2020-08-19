@@ -1,6 +1,6 @@
 package keytransform
 
-import ds "github.com/ipfs/go-datastore"
+import ds "github.com/textileio/go-datastore"
 
 // Pair is a convince struct for constructing a key transform.
 type Pair struct {

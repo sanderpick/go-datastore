@@ -4,8 +4,8 @@
 package failstore
 
 import (
-	ds "github.com/ipfs/go-datastore"
-	dsq "github.com/ipfs/go-datastore/query"
+	ds "github.com/textileio/go-datastore"
+	dsq "github.com/textileio/go-datastore/query"
 )
 
 // Failstore is a datastore which fails according to a user-provided

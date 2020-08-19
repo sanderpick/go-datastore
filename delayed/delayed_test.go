@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	datastore "github.com/ipfs/go-datastore"
-	dstest "github.com/ipfs/go-datastore/test"
+	datastore "github.com/textileio/go-datastore"
+	dstest "github.com/textileio/go-datastore/test"
 	delay "github.com/ipfs/go-ipfs-delay"
 )
 
